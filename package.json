@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "O F F",
   "main": "index.js",
+  "repository": "k4lim/oof",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
