@@ -1,0 +1,23 @@
+{
+  "name": "oof",
+  "version": "1.0.0",
+  "description": "O F F",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "oof",
+    "roblox"
+  ],
+  "author": "kalim",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.4.2",
+    "erlpack": "github:discordapp/erlpack",
+    "opusscript": "0.0.6",
+    "sodium": "^3.0.2"
+  }
+}
